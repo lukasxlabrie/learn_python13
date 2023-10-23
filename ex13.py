@@ -12,3 +12,8 @@ print("This script is called:", script)
 print("Your first variable is:", first)
 print("Your second variable is:", second)
 print("Your third variable is:", third)
+
+#defines var, aks user for name, prints name
+name = input
+input("enter a name: ")
+print("You entered:", name)
