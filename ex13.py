@@ -12,7 +12,3 @@ print("This script is called:", script)
 print("Your first variable is:", first)
 print("Your second variable is:", second)
 print("Your third variable is:", third)
-
-#prompts user to enter color and food
-input_1 = input('Enter color')
-input_2 = input('Enter food')
