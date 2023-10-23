@@ -16,4 +16,4 @@ print("Your third variable is:", third)
 #defines var, aks user for name, prints name
 name = input
 input("enter a name: ")
-print("You entered:", name)
+print(f"You entered:", {name})
