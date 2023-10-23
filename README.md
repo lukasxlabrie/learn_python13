@@ -1,2 +1,2 @@
 # learn_python13
-In this exercise we will coverone more inout method you cam use to pass variablesto a script (script ebing another name for .py files). You know how to type python3.6 ex13 to run the ex13.py file? Well the ex13.py part of the command is called an argument. What we'll do now is write a script that also accepts arugments. 
+In this exercise we will coverbone more inout method you cam use to pass variables to a script (script being another name for .py files). You know how to type python3.6 ex13 to run the ex13.py file? Well the ex13.py part of the command is called an argument. What we'll do now is write a script that also accepts arugments. 
