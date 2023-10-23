@@ -13,6 +13,6 @@ print("Your first variable is:", first)
 print("Your second variable is:", second)
 print("Your third variable is:", third)
 
-#defines var, aks user for name, prints name
-name = input("Please, enter a name")
-print(f"You entered: {name}")
+#defines var, asks user for name, prints name
+name = input("Please, enter your name: ")
+print(f"Your name is {name}.")
