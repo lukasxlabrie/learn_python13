@@ -15,4 +15,4 @@ print("Your third variable is:", third)
 
 #defines var, asks user for name, prints name
 name = input("Please, enter your name: ")
-print(f"So, your name is actually {name}? Cool.")
+print("So, your name is actually {}? Cool.".format(name))
